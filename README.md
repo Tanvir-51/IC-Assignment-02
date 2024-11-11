@@ -1,1 +1,3 @@
 # IC-Assignment-02
+
+This project is a fully responsive website built with Bootstrap, featuring a fixed, shadowed navbar with a collapsible hamburger menu for mobile screens, a hero carousel with three slides, and a structured content layout using Bootstrap’s grid system. Each section, including an "About" area with an image and text split, and a contact form styled with Bootstrap form classes, is designed to ensure consistency across devices. The footer includes social media icons, utilizing Bootstrap Icons, and colors are customized with Bootstrap’s utility classes for a cohesive, modern aesthetic.
